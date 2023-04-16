@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "id": 2,
+      "name": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": 123654789,
+      "country": "India"
+    },
+    {
+      "id": 4,
+      "name": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": 123654789,
+      "country": "India"
+    },
+    {
+      "name": "AnkitaShah",
+      "email": "kanki72@gmail.com",
+      "phone": "1234",
+      "country": "as",
+      "id": 5
+    }
+  ]
+}
